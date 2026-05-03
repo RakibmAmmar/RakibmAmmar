@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-I'm a **CSE graduate from Chattogram, Bangladesh** specialising in AI automation and intelligent workflow systems. I build tools that connect AI models to real business processes — reducing manual work, automating repetitive tasks, and making data actually useful.
+I'm a **CSE graduate from Chattogram, Bangladesh** specialising in AI automation and intelligent workflow systems. I build tools that connect AI models to real business processes - reducing manual work, automating repetitive tasks, and making data actually useful.
 
 - 🔭 Currently building: **AI-powered chatbots and business automation pipelines**
 - 🌱 Learning: **LangChain · OpenAI API · n8n · FastAPI · RAG systems**
