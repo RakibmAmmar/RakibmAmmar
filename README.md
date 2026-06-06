@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rakib Mohammad Ammar 👋</h1>
 
 <p align="center">
-  <b>AI Automation Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; CSE Graduate</b><br/>
+  <b>AI Automation Enthusiast &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; CSE Graduate</b><br/>
   <i>Building smart workflows that save businesses time and money</i>
 </p>
 
@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://rakibmammar.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=RakibmAmmar&color=blue&style=flat" alt="Profile views"/>
 </p>
 
@@ -25,10 +21,10 @@
 
 ## 🧠 About Me
 
-I'm a **CSE graduate from Chattogram, Bangladesh** specialising in AI automation and intelligent workflow systems. I build tools that connect AI models to real business processes - reducing manual work, automating repetitive tasks, and making data actually useful.
+I'm a **CSE graduate from Chattogram, Bangladesh** with a strong interest in **AI automation, Python development, and intelligent workflow systems**. I am focused on building practical tools that connect AI models with real-world business processes — reducing manual work, automating repetitive tasks, and making data more useful.
 
-- 🔭 Currently building: **AI-powered chatbots and business automation pipelines**
-- 🌱 Learning: **LangChain · OpenAI API · n8n · FastAPI · RAG systems**
+- 🔭 Recently completed: **Resume Analyzer AI**
+- 🌱 Currently learning: **LangChain · OpenAI API · n8n · FastAPI · RAG systems**
 - 💼 Open to: **AI Engineer · Automation Developer · IT Officer · Junior Software Engineer**
 - 🤝 Available for: **Full-time · Hybrid · Remote**
 - 📍 Based in: **Chattogram, Bangladesh**
@@ -71,65 +67,73 @@ I'm a **CSE graduate from Chattogram, Bangladesh** specialising in AI automation
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Completed Project
 
 ### 🤖 [Resume Analyzer AI](https://github.com/RakibmAmmar/resume-analyzer-ai)
-> AI tool that scores any resume against a job description and suggests improvements.
 
-Upload a PDF resume, paste a job description — get an instant match score, missing keyword analysis, and actionable suggestions powered by GPT. Helps job seekers and HR teams save hours of manual screening.
+> AI tool that scores a resume against a job description and suggests improvements.
+
+This project allows users to upload a PDF resume and paste a job description. The system analyzes the resume, calculates a match score, identifies missing keywords, and provides actionable suggestions to improve the resume for a target role.
 
 **Tech:** `Python` `OpenAI API` `PyPDF2` `Streamlit`  
-**Deploy:** [Live Demo on HuggingFace Spaces](https://huggingface.co/spaces/YOUR-SPACE-LINK)
+**Status:** Completed
 
 ---
 
-### 🏫 [AI-Enhanced School Management System](https://github.com/RakibmAmmar/school-management-system)
-> Django web app for managing student records, attendance, and auto-generated AI progress reports.
+## 🧩 Future Projects I Plan to Build
 
-Full-stack school management platform built with Django. Added GPT integration to auto-generate personalised student progress reports from marks data — eliminating hours of manual report writing for teachers.
+### 🏫 AI-Enhanced School Management System
 
-**Tech:** `Python` `Django` `OpenAI API` `SQLite` `Bootstrap`  
-**Deploy:** [Live on Railway](https://your-railway-link.railway.app)
+> Django-based school management platform with AI-generated student progress reports.
 
----
+This planned project will help manage student records, attendance, marks, and AI-generated student progress reports. The goal is to reduce manual report-writing work for teachers.
 
-### 💬 [Business FAQ Chatbot (RAG)](https://github.com/RakibmAmmar/faq-chatbot-rag)
-> Upload any PDF → chatbot answers questions from it using Retrieval-Augmented Generation.
-
-Built with LangChain and ChromaDB. Upload a product manual, policy document, or knowledge base — the chatbot answers natural language questions from it with source citations. Zero hallucinations on document-specific queries.
-
-**Tech:** `Python` `LangChain` `ChromaDB` `OpenAI API` `Gradio`  
-**Deploy:** [Live Demo](https://your-demo-link.com)
+**Planned Tech:** `Python` `Django` `OpenAI API` `SQLite` `Bootstrap`  
+**Status:** Planned / Future Project
 
 ---
 
-### 🔄 [n8n Automation Workflow Collection](https://github.com/RakibmAmmar/n8n-automation-workflows)
+### 💬 Business FAQ Chatbot Using RAG
+
+> Chatbot that answers questions from uploaded business documents.
+
+This planned project will allow users to upload documents such as product manuals, policy files, or knowledge-base documents. The chatbot will answer questions using Retrieval-Augmented Generation.
+
+**Planned Tech:** `Python` `LangChain` `ChromaDB` `OpenAI API` `Gradio`  
+**Status:** Planned / Future Project
+
+---
+
+### 🔄 n8n Automation Workflow Collection
+
 > Ready-to-use n8n automation templates for common business tasks.
 
-A collection of 5 production-ready n8n workflows: Google Form → AI Summary → Email, Daily News Digest → Telegram, WhatsApp message → AI Reply, Google Sheets → Auto Report, and New Lead → CRM entry + welcome email. Each workflow includes the JSON export, setup guide, and screenshots.
+This planned collection will include automation workflows such as Google Form to AI summary to email, daily news digest to Telegram, WhatsApp message automation, Google Sheets auto-reporting, and lead management workflows.
 
-**Tech:** `n8n` `OpenAI API` `Google Sheets API` `Telegram Bot API` `Gmail API`  
-**Workflows:** 5 ready-to-import JSON files
-
----
-
-### 🤖 [Telegram AI Assistant Bot](https://github.com/RakibmAmmar/telegram-ai-bot)
-> Personal AI assistant on Telegram — answers questions, summarises URLs, translates text, and generates social posts.
-
-A fully deployed Telegram bot with 4 commands: `/ask` for general questions, `/summarise` for URL content, `/translate` for multilingual support, and `/post` for social media caption generation. Currently live and usable.
-
-**Tech:** `Python` `python-telegram-bot` `OpenAI API` `BeautifulSoup`  
-**Try it live:** [@YourBotName on Telegram](https://t.me/YOUR-BOT-NAME)
+**Planned Tech:** `n8n` `OpenAI API` `Google Sheets API` `Telegram Bot API` `Gmail API`  
+**Status:** Planned / Future Project
 
 ---
 
-### 📊 [Bangladesh Job Market AI Dashboard](https://github.com/RakibmAmmar/bd-job-market-dashboard)
-> Scrapes bdjobs.com weekly → AI analyses trends → interactive dashboard showing in-demand skills and salaries.
+### 🤖 Telegram AI Assistant Bot
 
-Real-time insights into the Bangladeshi tech job market. Tracks skill demand, salary ranges by role, and emerging keywords. Includes a natural language Q&A: ask "what skills are most in demand this week?" and get a data-backed answer.
+> Personal AI assistant on Telegram.
 
-**Tech:** `Python` `BeautifulSoup` `Pandas` `Plotly` `Streamlit` `OpenAI API`  
-**Deploy:** [Live Dashboard](https://your-dashboard-link.com)
+This planned Telegram bot will answer questions, summarize URLs, translate text, and generate short social media captions through simple Telegram commands.
+
+**Planned Tech:** `Python` `python-telegram-bot` `OpenAI API` `BeautifulSoup`  
+**Status:** Planned / Future Project
+
+---
+
+### 📊 Bangladesh Job Market AI Dashboard
+
+> AI-powered dashboard for analyzing job trends in Bangladesh.
+
+This planned project will collect and analyze job market data to identify in-demand skills, salary trends, and emerging keywords in the Bangladeshi tech job market.
+
+**Planned Tech:** `Python` `BeautifulSoup` `Pandas` `Plotly` `Streamlit` `OpenAI API`  
+**Status:** Planned / Future Project
 
 ---
 
@@ -151,33 +155,29 @@ Real-time insights into the Bangladeshi tech job market. Tracks skill demand, sa
 
 | | |
 |---|---|
-| 🎓 **BSc in Computer Science & Engineering** | Chattogram — 2024 |
-| 📜 **Prompt Engineering for Developers** | DeepLearning.AI — 2025 |
-| 📜 **Google AI Essentials** | Google — 2025 |
-| 📜 **IBM AI Engineering** | Coursera (Audit) — 2025 |
-| 📜 **Hugging Face NLP Course** | Hugging Face — 2025 |
+| 🎓 **BSc in Computer Science & Engineering** | Port City International University — 2026 |
+| 📜 **Security and Privacy for Big Data - Part 1** | Coursera / EIT Digital — 2024 |
+| 📜 **IT Security Foundation: Core Concepts** | LinkedIn Learning — 2023 |
+| 📜 **HTML, CSS, & Bootstrap - Certification Course for Beginners** | Udemy — 2022 |
+| 📜 **The Fundamentals of Digital Marketing** | Google Digital Garage — 2022 |
 
 ---
 
 ## 💡 What I Can Build For You
 
-```
+   text
 ✅  AI chatbot for your website or WhatsApp
-✅  Automate your repetitive business workflows (n8n / Make.com)
-✅  Custom GPT trained on your company documents
-✅  Data scraping + AI analysis pipeline
+✅  Automate repetitive business workflows using n8n or Make.com
+✅  Custom GPT trained on company documents
+✅  Data scraping and AI analysis pipeline
 ✅  Django or FastAPI backend with AI features
 ✅  Resume screening tool for HR teams
-```
-
----
 
 ## 📫 Let's Connect
 
 I'm actively looking for opportunities in **AI engineering, automation development, IT, and tech-adjacent roles** across Dhaka, Chittagong, and remote positions worldwide.
 
 - 💼 **LinkedIn:** [linkedin.com/in/rakib-mohammad-ammar-25a966390](https://linkedin.com/in/rakib-mohammad-ammar-25a966390)
-- 🌐 **Portfolio:** [rakibmammar.vercel.app](https://rakibmammar.vercel.app)
 - 📧 **Email:** [rakibmdammar@gmail.com](rakibmdammar@gmail.com)
 - 📱 **WhatsApp / Phone:** +8801867598104 *(for professional enquiries)*
 
