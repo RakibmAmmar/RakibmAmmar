@@ -21,13 +21,34 @@
 
 ## 🧠 About Me
 
-I'm a **CSE graduate from Chattogram, Bangladesh** with a strong interest in **AI automation, Python development, and intelligent workflow systems**. I am focused on building practical tools that connect AI models with real-world business processes — reducing manual work, automating repetitive tasks, and making data more useful.
+I'm a **CSE graduate from Chattogram, Bangladesh** with a strong interest in **AI automation, Python development, intelligent workflow systems, and security-aware AI applications**. I am focused on building practical tools that connect AI models with real-world business processes — reducing manual work, automating repetitive tasks, and making data more useful.
 
 - 🔭 Recently completed: **Resume Analyzer AI**
+- 🎓 BSc in CSE: **CGPA 3.84/4.00**
 - 🌱 Currently learning: **LangChain · OpenAI API · n8n · FastAPI · RAG systems**
+- 🔐 Research interests: **Access Control · Policy Mining · Zero Trust Security · AI Model Security · IoT Security**
 - 💼 Open to: **AI Engineer · Automation Developer · IT Officer · Junior Software Engineer**
 - 🤝 Available for: **Full-time · Hybrid · Remote**
 - 📍 Based in: **Chattogram, Bangladesh**
+
+---
+
+## 🔬 Academic & Research Focus
+
+My undergraduate thesis was titled **“Bilingual Handwritten Prescription Mining in Low-Resource Settings Using Fine-Tuned TrOCR.”** In this work, I developed an AI-based healthcare document understanding pipeline for recognizing handwritten medicine names from bilingual Bangla-English prescriptions. The project involved **dataset preparation, Transformer-based OCR fine-tuning, lexicon-guided post-processing, structured medical information mapping, and patient-centric summary generation**.
+
+This research helped me understand that AI-enabled healthcare systems should not only be accurate, but also **secure, trustworthy, auditable, and properly governed after deployment**. Because healthcare systems increasingly involve sensitive medical data, AI-generated outputs, user workflows, and connected devices, I am interested in exploring how secure policy enforcement can protect these systems without creating unnecessary usability burden for legitimate users.
+
+### Current Research Interest
+
+**Policy Mining and Adaptive Access Control for AI-Enabled Healthcare and IoT Systems**
+
+I am particularly interested in how access-control policies can be learned or formulated from user workflows and system logs, and how adaptive enforcement can strengthen verification when behaviour becomes risky. This direction connects my background in AI-based healthcare document understanding with my growing interest in **access control, policy mining, Zero Trust security, continuous authentication, AI model security, and security/privacy for IoT systems**.
+
+### Related Course-Based Research
+
+- **Heartbeat Sound Classification** using CNN-based hybrid and ensemble learning models.
+- **Gender Classification System** using artificial neural networks.
 
 ---
 
@@ -57,6 +78,14 @@ I'm a **CSE graduate from Chattogram, Bangladesh** with a strong interest in **A
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 
+**Security & Research Tools**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat&logo=securityscorecard&logoColor=white)
+![Access Control](https://img.shields.io/badge/Access_Control-1F618D?style=flat&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-922B21?style=flat&logoColor=white)
+![IoT Security](https://img.shields.io/badge/IoT_Security-117A65?style=flat&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -77,6 +106,20 @@ This project allows users to upload a PDF resume and paste a job description. Th
 
 **Tech:** `Python` `OpenAI API` `PyPDF2` `Streamlit`  
 **Status:** Completed
+
+---
+
+## 🎓 Research Project
+
+### 🩺 Bilingual Handwritten Prescription Mining Using Fine-Tuned TrOCR
+
+> AI-based healthcare document understanding pipeline for low-resource handwritten prescription digitization.
+
+This undergraduate thesis focused on recognizing handwritten medicine names from bilingual Bangla-English prescriptions. The system used a fine-tuned Transformer-based OCR model, lexicon-guided post-processing, and structured medical knowledge mapping to improve medicine-name recognition and generate patient-centric summaries.
+
+**Key Areas:** `OCR` `TrOCR` `Computer Vision` `NLP` `Healthcare AI` `Low-Resource Systems` `Post-Processing`  
+**Research Direction Extended Toward:** `Privacy-Preserving Healthcare AI` `Policy Mining` `Adaptive Access Control` `Trustworthy AI Systems`  
+**Status:** Completed Academic Thesis
 
 ---
 
@@ -156,6 +199,8 @@ This planned project will collect and analyze job market data to identify in-dem
 | | |
 |---|---|
 | 🎓 **BSc in Computer Science & Engineering** | Port City International University — 2026 |
+| 🏅 **CGPA** | 3.84 / 4.00 |
+| 🌐 **IELTS** | Overall 7.0 — Listening 8.0, Reading 7.5, Writing 6.5, Speaking 6.5 |
 | 📜 **Security and Privacy for Big Data - Part 1** | Coursera / EIT Digital — 2024 |
 | 📜 **IT Security Foundation: Core Concepts** | LinkedIn Learning — 2023 |
 | 📜 **HTML, CSS, & Bootstrap - Certification Course for Beginners** | Udemy — 2022 |
@@ -163,15 +208,24 @@ This planned project will collect and analyze job market data to identify in-dem
 
 ---
 
+## 🏆 Academic Recognition
+
+- PCIU Merit Scholarship Award for Semester GPA 4.00 — Fall 2022, Summer 2023, Fall 2024, Fall 2025
+- Participated in ICPC Regional Preliminary Contest — 2022, 2023
+- Class Representative at PCIU Computer Club — 2024
+- Member, Bangladesh National Cadet Corps — 2017–2018
+
+---
+
 ## 💡 What I Can Build For You
 
-   text
-✅  AI chatbot for your website or WhatsApp
-✅  Automate repetitive business workflows using n8n or Make.com
-✅  Custom GPT trained on company documents
-✅  Data scraping and AI analysis pipeline
-✅  Django or FastAPI backend with AI features
-✅  Resume screening tool for HR teams
+```text
+✅ AI chatbot for your website or WhatsApp
+✅ Automate repetitive business workflows using n8n or Make.com
+✅ Custom GPT trained on company documents
+✅ Data scraping and AI analysis pipeline
+✅ Django or FastAPI backend with AI features
+✅ Resume screening tool for HR teams
 
 ## 📫 Let's Connect
 
