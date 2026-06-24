@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Rakib Mohammad Ammar 👋</h1>
 
 <p align="center">
-  <b>AI Automation Enthusiast &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; CSE Graduate</b><br/>
-  <i>Building smart workflows that save businesses time and money</i>
+  <b>CSE Graduate &nbsp;·&nbsp; AI Automation Enthusiast &nbsp;·&nbsp; Healthcare AI Researcher &nbsp;·&nbsp; Python Developer</b><br/>
+  <i>Building practical AI systems for automation, healthcare, document understanding, and intelligent workflows</i>
 </p>
 
 <p align="center">
@@ -21,78 +21,178 @@
 
 ## 🧠 About Me
 
-I'm a **CSE graduate from Chattogram, Bangladesh** with a strong interest in **AI automation, Python development, intelligent workflow systems, and security-aware AI applications**. I am focused on building practical tools that connect AI models with real-world business processes — reducing manual work, automating repetitive tasks, and making data more useful.
+I'm a **Computer Science & Engineering graduate from Chattogram, Bangladesh** with a growing focus on **AI automation, healthcare AI, medical document understanding, biomedical signal analysis, and human-centered intelligent systems**.
 
-- 🔭 Recently completed: **Resume Analyzer AI**
-- 🎓 BSc in CSE: **CGPA 3.84/4.00**
-- 🌱 Currently learning: **LangChain · OpenAI API · n8n · FastAPI · RAG systems**
-- 🔐 Research interests: **Access Control · Policy Mining · Zero Trust Security · AI Model Security · IoT Security**
-- 💼 Open to: **AI Engineer · Automation Developer · IT Officer · Junior Software Engineer**
-- 🤝 Available for: **Full-time · Hybrid · Remote**
-- 📍 Based in: **Chattogram, Bangladesh**
+My academic work has introduced me to **Transformer-based OCR, computer vision, biomedical signal classification, deep learning, structured medical information extraction, and patient-centered AI systems**. Alongside research, I also build practical AI tools such as resume analyzers, chatbots, workflow automation systems, and intelligent document-processing applications.
+
+* 🎓 BSc in Computer Science & Engineering — **CGPA 3.84/4.00**
+* 🔭 Recently completed: **Resume Analyzer AI**
+* 🩺 Undergraduate thesis: **Bilingual Handwritten Prescription Mining Using Fine-Tuned TrOCR**
+* 🫀 Course research: **Heartbeat Sound Classification Using ML/DL and CNN-RNN Hybrid Models**
+* 🧠 Course project: **Gender Classification System Using Artificial Neural Networks**
+* 🌱 Currently learning: **LangChain · OpenAI API · n8n · FastAPI · RAG systems · Hugging Face Transformers**
+* 💼 Open to: **AI Engineer · Automation Developer · IT Officer · Junior Software Engineer · Research Assistant**
+* 🤝 Available for: **Full-time · Hybrid · Remote**
+* 📍 Based in: **Chattogram, Bangladesh**
 
 ---
 
 ## 🔬 Academic & Research Focus
 
-My undergraduate thesis was titled **“Bilingual Handwritten Prescription Mining in Low-Resource Settings Using Fine-Tuned TrOCR.”** In this work, I developed an AI-based healthcare document understanding pipeline for recognizing handwritten medicine names from bilingual Bangla-English prescriptions. The project involved **dataset preparation, Transformer-based OCR fine-tuning, lexicon-guided post-processing, structured medical information mapping, and patient-centric summary generation**.
+My research interests are centered on **human-centered and trustworthy AI systems**, especially in healthcare and real-world decision-support settings. I am interested in AI systems that can work with imperfect, noisy, low-resource, or data-limited environments while remaining useful, reliable, and understandable for users.
 
-This research helped me understand that AI-enabled healthcare systems should not only be accurate, but also **secure, trustworthy, auditable, and properly governed after deployment**. Because healthcare systems increasingly involve sensitive medical data, AI-generated outputs, user workflows, and connected devices, I am interested in exploring how secure policy enforcement can protect these systems without creating unnecessary usability burden for legitimate users.
+My academic work connects three areas:
 
-### Current Research Interest
+1. **Medical Document Understanding**
+   I worked on bilingual handwritten prescription mining using fine-tuned TrOCR, lexicon-guided correction, structured medicine knowledge mapping, and Bangla-English patient-centric summarization.
 
-**Policy Mining and Adaptive Access Control for AI-Enabled Healthcare and IoT Systems**
+2. **Biomedical Signal Analysis**
+   I explored heartbeat sound classification using classical machine learning, deep learning, CNN-RNN hybrid architectures, and ensemble approaches for cardiovascular screening support.
 
-I am particularly interested in how access-control policies can be learned or formulated from user workflows and system logs, and how adaptive enforcement can strengthen verification when behaviour becomes risky. This direction connects my background in AI-based healthcare document understanding with my growing interest in **access control, policy mining, Zero Trust security, continuous authentication, AI model security, and security/privacy for IoT systems**.
+3. **Applied Deep Learning & Pattern Recognition**
+   I contributed to a team-based ANN project for gender classification using structured facial-feature data, focusing on supervised learning, preprocessing, binary classification, and model evaluation.
 
-### Related Course-Based Research
+### Research Interests
 
-- **Heartbeat Sound Classification** using CNN-based hybrid and ensemble learning models.
-- **Gender Classification System** using artificial neural networks.
+* Human-Centered Healthcare AI
+* Medical Document Understanding
+* Multimodal Medical AI
+* Medical Vision-Language Models
+* Biomedical Signal Analysis
+* Low-Resource and Underserved Clinical AI
+* Trustworthy and Explainable AI
+* Robust Model Adaptation
+* Uncertainty-Aware Learning
+* Computer Vision and Deep Learning
+* Patient-Centered AI Systems
+* Privacy-Aware and Secure AI Applications
+
+---
+
+## 🧪 Research & Academic Projects
+
+### 🩺 Bilingual Handwritten Prescription Mining Using Fine-Tuned TrOCR
+
+> Undergraduate thesis on healthcare document understanding for low-resource Bangla-English handwritten prescriptions.
+
+This thesis developed an end-to-end AI pipeline for recognizing handwritten medicine names from bilingual prescriptions and transforming extracted information into patient-friendly summaries.
+
+**Key Contributions**
+
+* Converted prescription-region annotations into OCR-ready medicine-name crops.
+* Fine-tuned a Transformer-based OCR model, **TrOCR**, for handwritten medicine-name recognition.
+* Applied lexicon-guided **Levenshtein post-processing** to reduce OCR errors.
+* Integrated corrected medicine names with structured medicine knowledge sources.
+* Generated deterministic Bangla-English patient-centric summaries with safety disclaimers.
+* Evaluated performance using **CER, WER, exact-match accuracy, and error analysis**.
+
+**Key Areas:** `Healthcare AI` `OCR` `TrOCR` `Computer Vision` `NLP` `Medical Document Understanding` `Low-Resource AI` `Patient-Centered AI`
+**Status:** Completed Undergraduate Thesis
+
+---
+
+### 🫀 Heartbeat Sound Classification Using CNN-Based Hybrids and Ensemble Learning
+
+> Course-related research on biomedical signal classification for heartbeat/phonocardiogram analysis.
+
+This project compared classical machine learning, standalone deep learning, CNN-RNN hybrid models, and ensemble approaches for heartbeat sound classification.
+
+**Key Contributions**
+
+* Preprocessed heartbeat sound recordings using resampling, silence trimming, fixed-window segmentation, and log-mel spectrogram generation.
+* Extracted handcrafted audio features for classical ML models.
+* Benchmarked models including **SVM, KNN, Random Forest, GBM, XGBoost, LightGBM, Decision Tree, Naïve Bayes, CNN, LSTM, Bi-LSTM, and GRU**.
+* Designed and evaluated **CNN+LSTM, CNN+Bi-LSTM, and CNN+GRU** hybrid architectures.
+* Evaluated performance using accuracy, precision, recall, F1-score, confusion matrix, and training/validation curves.
+
+**Key Areas:** `Biomedical Signal Processing` `Heartbeat Sound Classification` `Machine Learning` `Deep Learning` `CNN` `LSTM` `GRU` `Hybrid Models` `Healthcare AI`
+**Status:** Completed Course-Related Research
+
+---
+
+### 🧠 Gender Classification System Using Artificial Neural Networks
+
+> Team-based coursework project on supervised classification using structured facial-feature data.
+
+This project developed a simple ANN-based binary classification system using a structured CSV dataset containing facial-feature variables.
+
+**Key Contributions**
+
+* Worked with a dataset of 5,001 samples and 7 facial-feature variables.
+* Applied preprocessing, feature shaping, train-test splitting, and supervised model training.
+* Built an ANN with ReLU hidden layers, Sigmoid output, Binary Crossentropy loss, Adam optimizer, and early stopping.
+* Evaluated model performance using test accuracy, confusion matrix, precision, recall, F1-score, and ROC curve.
+
+**Key Areas:** `Artificial Neural Networks` `Pattern Recognition` `Supervised Learning` `Binary Classification` `TensorFlow` `Keras`
+**Status:** Completed Team-Based Coursework Project
+
+---
+
+## 📚 Academic Projects and Coursework
+
+During my undergraduate study, I completed several academic projects that strengthened my foundation in **software development, object-oriented programming, embedded systems, data analysis, and database-driven application design**.
+
+* **ATM/CRM Machine System Management**
+  Developed a machine-management system using **Object-Oriented Programming** concepts, focusing on modular design, class-based structure, transaction handling, and system logic.
+
+* **Automated Railway Gate Control System**
+  Built an embedded-system prototype using **Arduino UNO** and **ultrasonic sensors** to automate railway gate operation based on object/train detection.
+
+* **Local Transport System Mismanagement Analysis**
+  Conducted a statistical analysis of public perceptions and proposals on local transport mismanagement using data from **250 participants**, including drivers, passengers, and local residents.
+
+* **Timely Care — Doctor Appointment Management Software**
+  Developed a doctor appointment management system to support patient scheduling, appointment tracking, and healthcare-service organization.
+
+**Key Areas:** `OOP` `Embedded Systems` `Arduino` `Sensor-Based Automation` `Data Analysis` `Software Engineering` `Database Systems` `Healthcare Software`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & Automation**
+**AI, ML & Research**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+
+**AI Automation & LLM Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat\&logo=chainlink\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat\&logo=openai\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat\&logo=n8n\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat\&logoColor=white)
 
 **Web & Backend**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-**Data & Databases**
+**Data, Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat\&logo=googlecolab\&logoColor=white)
 
-**Security & Research Tools**
+**Security & Responsible AI Interests**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat&logo=securityscorecard&logoColor=white)
-![Access Control](https://img.shields.io/badge/Access_Control-1F618D?style=flat&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-922B21?style=flat&logoColor=white)
-![IoT Security](https://img.shields.io/badge/IoT_Security-117A65?style=flat&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat\&logo=securityscorecard\&logoColor=white)
+![Access Control](https://img.shields.io/badge/Access_Control-1F618D?style=flat\&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-922B21?style=flat\&logoColor=white)
+![Trustworthy AI](https://img.shields.io/badge/Trustworthy_AI-5B2C6F?style=flat\&logoColor=white)
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-117A65?style=flat\&logoColor=white)
 
 ---
 
@@ -104,79 +204,8 @@ I am particularly interested in how access-control policies can be learned or fo
 
 This project allows users to upload a PDF resume and paste a job description. The system analyzes the resume, calculates a match score, identifies missing keywords, and provides actionable suggestions to improve the resume for a target role.
 
-**Tech:** `Python` `OpenAI API` `PyPDF2` `Streamlit`  
+**Tech:** `Python` `OpenAI API` `PyPDF2` `Streamlit`
 **Status:** Completed
-
----
-
-## 🎓 Research Project
-
-### 🩺 Bilingual Handwritten Prescription Mining Using Fine-Tuned TrOCR
-
-> AI-based healthcare document understanding pipeline for low-resource handwritten prescription digitization.
-
-This undergraduate thesis focused on recognizing handwritten medicine names from bilingual Bangla-English prescriptions. The system used a fine-tuned Transformer-based OCR model, lexicon-guided post-processing, and structured medical knowledge mapping to improve medicine-name recognition and generate patient-centric summaries.
-
-**Key Areas:** `OCR` `TrOCR` `Computer Vision` `NLP` `Healthcare AI` `Low-Resource Systems` `Post-Processing`  
-**Research Direction Extended Toward:** `Privacy-Preserving Healthcare AI` `Policy Mining` `Adaptive Access Control` `Trustworthy AI Systems`  
-**Status:** Completed Academic Thesis
-
----
-
-## 🧩 Future Projects I Plan to Build
-
-### 🏫 AI-Enhanced School Management System
-
-> Django-based school management platform with AI-generated student progress reports.
-
-This planned project will help manage student records, attendance, marks, and AI-generated student progress reports. The goal is to reduce manual report-writing work for teachers.
-
-**Planned Tech:** `Python` `Django` `OpenAI API` `SQLite` `Bootstrap`  
-**Status:** Planned / Future Project
-
----
-
-### 💬 Business FAQ Chatbot Using RAG
-
-> Chatbot that answers questions from uploaded business documents.
-
-This planned project will allow users to upload documents such as product manuals, policy files, or knowledge-base documents. The chatbot will answer questions using Retrieval-Augmented Generation.
-
-**Planned Tech:** `Python` `LangChain` `ChromaDB` `OpenAI API` `Gradio`  
-**Status:** Planned / Future Project
-
----
-
-### 🔄 n8n Automation Workflow Collection
-
-> Ready-to-use n8n automation templates for common business tasks.
-
-This planned collection will include automation workflows such as Google Form to AI summary to email, daily news digest to Telegram, WhatsApp message automation, Google Sheets auto-reporting, and lead management workflows.
-
-**Planned Tech:** `n8n` `OpenAI API` `Google Sheets API` `Telegram Bot API` `Gmail API`  
-**Status:** Planned / Future Project
-
----
-
-### 🤖 Telegram AI Assistant Bot
-
-> Personal AI assistant on Telegram.
-
-This planned Telegram bot will answer questions, summarize URLs, translate text, and generate short social media captions through simple Telegram commands.
-
-**Planned Tech:** `Python` `python-telegram-bot` `OpenAI API` `BeautifulSoup`  
-**Status:** Planned / Future Project
-
----
-
-### 📊 Bangladesh Job Market AI Dashboard
-
-> AI-powered dashboard for analyzing job trends in Bangladesh.
-
-This planned project will collect and analyze job market data to identify in-demand skills, salary trends, and emerging keywords in the Bangladeshi tech job market.
-
-**Planned Tech:** `Python` `BeautifulSoup` `Pandas` `Plotly` `Streamlit` `OpenAI API`  
-**Status:** Planned / Future Project
 
 ---
 
@@ -196,48 +225,49 @@ This planned project will collect and analyze job market data to identify in-dem
 
 ## 🎓 Education & Certifications
 
-| | |
-|---|---|
-| 🎓 **BSc in Computer Science & Engineering** | Port City International University — 2026 |
-| 🏅 **CGPA** | 3.84 / 4.00 |
-| 🌐 **IELTS** | Overall 7.0 — Listening 8.0, Reading 7.5, Writing 6.5, Speaking 6.5 |
-| 📜 **Security and Privacy for Big Data - Part 1** | Coursera / EIT Digital — 2024 |
-| 📜 **IT Security Foundation: Core Concepts** | LinkedIn Learning — 2023 |
-| 📜 **HTML, CSS, & Bootstrap - Certification Course for Beginners** | Udemy — 2022 |
-| 📜 **The Fundamentals of Digital Marketing** | Google Digital Garage — 2022 |
+|                                                                    |                                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| 🎓 **BSc in Computer Science & Engineering**                       | Port City International University — 2026                           |
+| 🏅 **CGPA**                                                        | 3.84 / 4.00                                                         |
+| 🌐 **IELTS**                                                       | Overall 7.0 — Listening 8.0, Reading 7.5, Writing 6.5, Speaking 6.5 |
+| 📜 **Security and Privacy for Big Data - Part 1**                  | Coursera / EIT Digital — 2024                                       |
+| 📜 **IT Security Foundation: Core Concepts**                       | LinkedIn Learning — 2023                                            |
+| 📜 **HTML, CSS, & Bootstrap - Certification Course for Beginners** | Udemy — 2022                                                        |
+| 📜 **The Fundamentals of Digital Marketing**                       | Google Digital Garage — 2022                                        |
 
 ---
 
 ## 🏆 Academic Recognition
 
-- PCIU Merit Scholarship Award for Semester GPA 4.00 — Fall 2022, Summer 2023, Fall 2024, Fall 2025
-- Participated in ICPC Regional Preliminary Contest — 2022, 2023
-- Class Representative at PCIU Computer Club — 2024
-- Member, Bangladesh National Cadet Corps — 2017–2018
+* PCIU Merit Scholarship Award for Semester GPA 4.00 — Fall 2022, Summer 2023, Fall 2024, Fall 2025
+* Participated in ICPC Regional Preliminary Contest — 2022, 2023
+* Class Representative at PCIU Computer Club — 2024
+* Member, Bangladesh National Cadet Corps — 2017–2018
 
 ---
 
-## 💡 What I Can Build For You
+## 💡 What I Can Build
 
-✅ AI chatbot for your website or WhatsApp  
-✅ Automate repetitive business workflows using n8n or Make.com  
-✅ Custom GPT trained on company documents  
-✅ Data scraping and AI analysis pipeline  
-✅ Django or FastAPI backend with AI features  
-✅ Resume screening tool for HR teams  
+✅ AI chatbot for websites or business workflows
+✅ Resume analysis and document intelligence tools
+✅ RAG-based question-answering systems over documents
+✅ n8n / Make.com workflow automation
+✅ Data scraping and AI analysis pipelines
+✅ Django or FastAPI backend with AI features
+✅ Healthcare/document-processing AI prototypes
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively looking for opportunities in **AI engineering, automation development, IT, and tech-adjacent roles** across Dhaka, Chittagong, and remote positions worldwide.
+I'm actively looking for opportunities in **AI engineering, automation development, IT, software development, and research assistant roles** across Bangladesh and remote positions worldwide.
 
-I am also interested in graduate research opportunities related to **secure and trustworthy AI systems, policy mining, adaptive access control, Zero Trust security, and privacy-preserving healthcare AI**.
+I am also interested in graduate research opportunities related to **human-centered healthcare AI, medical document understanding, biomedical signal analysis, trustworthy AI, low-resource clinical AI, and robust model adaptation**.
 
-- 💼 **LinkedIn:** [linkedin.com/in/rakib-mohammad-ammar-25a966390](https://linkedin.com/in/rakib-mohammad-ammar-25a966390)
-- 📧 **Email:** [rakibmdammar@gmail.com](mailto:rakibmdammar@gmail.com)
-- 📱 **WhatsApp / Phone:** +8801867598104 *(for professional enquiries)*
+* 💼 **LinkedIn:** [linkedin.com/in/rakib-mohammad-ammar-25a966390](https://linkedin.com/in/rakib-mohammad-ammar-25a966390)
+* 📧 **Email:** [rakibmdammar@gmail.com](mailto:rakibmdammar@gmail.com)
+* 📱 **WhatsApp / Phone:** +8801867598104 *(for professional enquiries)*
 
 <p align="center">
-  <i>"I don't just learn AI tools — I build things with them that solve real problems."</i>
+  <i>"I don't just learn AI tools — I build practical systems that solve real problems."</i>
 </p>
