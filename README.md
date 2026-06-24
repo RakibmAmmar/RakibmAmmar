@@ -219,20 +219,23 @@ This planned project will collect and analyze job market data to identify in-dem
 
 ## 💡 What I Can Build For You
 
-```text
-✅ AI chatbot for your website or WhatsApp
-✅ Automate repetitive business workflows using n8n or Make.com
-✅ Custom GPT trained on company documents
-✅ Data scraping and AI analysis pipeline
-✅ Django or FastAPI backend with AI features
-✅ Resume screening tool for HR teams
+✅ AI chatbot for your website or WhatsApp  
+✅ Automate repetitive business workflows using n8n or Make.com  
+✅ Custom GPT trained on company documents  
+✅ Data scraping and AI analysis pipeline  
+✅ Django or FastAPI backend with AI features  
+✅ Resume screening tool for HR teams  
+
+---
 
 ## 📫 Let's Connect
 
 I'm actively looking for opportunities in **AI engineering, automation development, IT, and tech-adjacent roles** across Dhaka, Chittagong, and remote positions worldwide.
 
+I am also interested in graduate research opportunities related to **secure and trustworthy AI systems, policy mining, adaptive access control, Zero Trust security, and privacy-preserving healthcare AI**.
+
 - 💼 **LinkedIn:** [linkedin.com/in/rakib-mohammad-ammar-25a966390](https://linkedin.com/in/rakib-mohammad-ammar-25a966390)
-- 📧 **Email:** [rakibmdammar@gmail.com](rakibmdammar@gmail.com)
+- 📧 **Email:** [rakibmdammar@gmail.com](mailto:rakibmdammar@gmail.com)
 - 📱 **WhatsApp / Phone:** +8801867598104 *(for professional enquiries)*
 
 <p align="center">
